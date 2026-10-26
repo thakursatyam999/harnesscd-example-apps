@@ -3,7 +3,7 @@ connector:
   identifier: harnessgitconnector
   description: ""
   orgIdentifier: default
-  projectIdentifier: default_project
+  projectIdentifier: SatyamThakurDevspace
   type: Github
   spec:
     url: https://github.com/thakursatyam999/harnesscd-example-apps
