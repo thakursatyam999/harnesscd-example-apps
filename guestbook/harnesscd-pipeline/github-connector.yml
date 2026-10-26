@@ -6,13 +6,13 @@ connector:
   projectIdentifier: default_project
   type: Github
   spec:
-    url: https://github.com/GITHUB_USERNAME/harnesscd-example-apps
+    url: https://github.com/thakursatyam999/harnesscd-example-apps
     authentication:
       type: Http
       spec:
         type: UsernameToken
         spec:
-          username: GITHUB_USERNAME
+          username: thakursatyam999
           tokenRef: harness_gitpat
     apiAccess:
       type: Token
